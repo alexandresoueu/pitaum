@@ -3,4 +3,6 @@
 print('nemo swimming here')
 print('#########')
 
-import shadow.coral.fish
+# import shadow.coral.fish
+
+from tipos import varchar
